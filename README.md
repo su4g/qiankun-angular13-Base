@@ -1,8 +1,8 @@
-## qiankun - Angular13 Demo
+## qiankun - Angular15 Demo
 
 ### 简介
 
-以[`qiankun`](https://qiankun.umijs.org/zh) 为基础的Ng13微前端项目Demo，主应用和子应用均采用Ng13。
+以[`qiankun`](https://qiankun.umijs.org/zh) 为基础的Ng15微前端项目Demo，主应用更新了Ng15和子应用采用Ng13。
 
 主应用：Angular15
 
