@@ -4,7 +4,7 @@
 
 以[`qiankun`](https://qiankun.umijs.org/zh) 为基础的Ng13微前端项目Demo，主应用和子应用均采用Ng13。
 
-主应用：Angular13
+主应用：Angular15
 
 子应用：Angular13
 
